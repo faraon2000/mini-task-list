@@ -1,32 +1,36 @@
-# ✅ Mini Task List – React.js
+# 📝 Mini Task List
 
-A simple and responsive task list app built with React. Add, complete, delete and filter your tasks with LocalStorage persistence.
-
----
-
-## 🚀 Features
-
-- 📝 Add new tasks
-- ✅ Mark tasks as completed
-- 🗑 Delete tasks
-- 🔍 Filter by completed / active / all
-- 💾 Stored in LocalStorage
+Una aplicación web sencilla para gestionar tareas, creada con **React.js** y **Vite**. Ideal como proyecto personal para demostrar habilidades en desarrollo frontend.
 
 ---
 
-## 🛠 Built With
+## 🔗 Demo en vivo
 
-- React.js
-- JavaScript (ES6+)
-- CSS / Flexbox
-- LocalStorage API
+👉 [https://mini-task-list-bqam-git-main-mini-task-lists-projects.vercel.app](https://mini-task-list-bqam-git-main-mini-task-lists-projects.vercel.app)
 
 ---
 
-## 📦 How to Run Locally
+## ⚙️ Tecnologías usadas
+
+- 🧠 **React.js** — Librería principal de la app
+- ⚡ **Vite** — Bundler moderno y veloz
+- 💅 **CSS** — Estilos simples personalizados
+- 🌐 **Vercel** — Hosting y despliegue automático
+
+---
+
+## 🖥️ Funcionalidades
+
+- Crear nuevas tareas ✅
+- Marcar tareas como completadas ✅
+- Eliminar tareas de la lista 🗑️
+
+---
+
+## 🚀 Cómo ejecutar localmente
+
+1. Clona el repositorio:
 
 ```bash
 git clone https://github.com/faraon2000/mini-task-list.git
 cd mini-task-list
-npm install
-npm start
