@@ -1,7 +1,0 @@
-.task-list-box {
-	display: flex;
-	justify-content: center;
-	flex-wrap: wrap;
-	margin-top: 15px;
-	user-select: none;
-}
